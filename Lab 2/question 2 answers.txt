@@ -1,0 +1,4 @@
+1. After increasing number of nodes in the hidden layer the network has the capability to capture most of the data therefore the accuracy of model increased.
+
+2. As the number of hidden nodes increases, the model becomes more complex and can fit the training data better.
+Initially, increasing the number of hidden nodes leads to an improvement in accuracy because of the network can capture more detailed patterns in the data. But after certain number of nodes (after 24 nodes) model's accuracy stopped increasing, this happens due to overfitting.
