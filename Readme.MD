@@ -6,4 +6,6 @@
 
 ## Lab 3: Convolution
 
-## Lab 4: Object Detection
+## Lab 4: Image recognition
+
+## Lab 5: Object detection
