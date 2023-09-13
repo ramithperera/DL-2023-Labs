@@ -9,3 +9,5 @@
 ## Lab 4: Image recognition
 
 ## Lab 5: Object detection
+
+## Lab 6: Reinforcement Learning
