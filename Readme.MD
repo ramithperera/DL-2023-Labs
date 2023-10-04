@@ -11,3 +11,5 @@
 ## Lab 5: Object detection
 
 ## Lab 6: Reinforcement Learning
+
+## Lab 7: Autoencorders
