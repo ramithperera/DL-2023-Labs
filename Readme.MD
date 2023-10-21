@@ -13,3 +13,5 @@
 ## Lab 6: Reinforcement Learning
 
 ## Lab 7: Autoencorders
+
+## Lab 8: Graphs and Networks
